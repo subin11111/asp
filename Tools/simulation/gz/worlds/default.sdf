@@ -139,8 +139,8 @@
       <wheel_separation>0.57</wheel_separation>
       <wheel_radius>0.1651</wheel_radius>
       <odom_publish>true</odom_publish>
-      <odom_topic>/model/X1/odometry</odom_topic>
-      <cmd_vel_topic>/model/X1/cmd_vel</cmd_vel_topic>
+      <odom_topic>/model/X1_asp/odometry</odom_topic>
+      <cmd_vel_topic>/model/X1_asp/cmd_vel</cmd_vel_topic>
     </plugin>
 
   </model>
